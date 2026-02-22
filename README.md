@@ -4,8 +4,7 @@ Bitcoin Prediction (On-chain + ML)
 This repository contains code and materials accompanying our published paper:
 
 - Paper (DOI): [Bitcoin forecasting with machine learning and on-chain information](https://doi.org/10.1080/10293523.2026.2616575)
-- PDF (in this repo): [Bitcoin forecasting with machine learning and on-chain](./Bitcoin%20forecasting%20with%20machine%20learning%20and%20on-chain.pdf)
-- 
+
 Goal
 ----
 This repository explores short-horizon Bitcoin forecasting (e.g., next-day return) using
