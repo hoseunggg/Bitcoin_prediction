@@ -1,0 +1,16 @@
+model,step,added_variable,rmse,r2_oos,train_size
+svr,1,BlkSizeMeanByte,0.0464,-0.0235,30
+svr,1,BlkSizeMeanByte,0.045,-0.0042,45
+svr,1,BlkSizeMeanByte,0.0442,0.0405,60
+svr,1,BlkSizeMeanByte,0.0437,0.0371,75
+svr,1,BlkSizeMeanByte,0.0442,0.0132,90
+svr,2,Term_Spread,0.0459,-0.0033,30
+svr,2,Term_Spread,0.0447,0.0074,45
+svr,2,Term_Spread,0.0444,0.0315,60
+svr,2,Term_Spread,0.0438,0.0363,75
+svr,2,Term_Spread,0.0437,0.0365,90
+svr,3,USD_Index,0.046,-0.0077,30
+svr,3,USD_Index,0.0447,0.0073,45
+svr,3,USD_Index,0.0443,0.0367,60
+svr,3,USD_Index,0.0437,0.0382,75
+svr,3,USD_Index,0.0437,0.0348,90

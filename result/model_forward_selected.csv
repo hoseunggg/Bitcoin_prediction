@@ -1,0 +1,3 @@
+model,selected_variables,final_r2_oos
+xgb,"['DiffMean', 'TxTfrValAdjUSD', 'RevUSD', 'Ten_Year', 'URTH', 'Risk_Free']",-0.0298
+svr,"['BlkSizeMeanByte', 'Term_Spread', 'USD_Index']",0.0331

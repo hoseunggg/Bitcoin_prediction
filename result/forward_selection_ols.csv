@@ -1,0 +1,2 @@
+model,step,added_variable,rmse_mean,n_selected
+ols,1,USD_Index,0.0466,1
